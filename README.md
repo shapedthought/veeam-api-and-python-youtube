@@ -9,6 +9,7 @@ How the Jupyter notebooks map to the series:
 - Logging into Enterprise Manager: em_api_connect.ipynb
 - Logging into the V11 API: v11_api_connect.ipynb
 - Using the Veeam Easy Connect Module: easy_connect.ipynb
+- Exploring the Veeam API
 
 The Veeam Easy Connect Module can be found at: 
 
