@@ -6,10 +6,11 @@ This repository has Jupyter notebooks that corresponded to the videos on Youtube
 
 How the Jupyter notebooks map to the series:
 
-- Logging into Enterprise Manager: em_api_connect.ipynb
-- Logging into the V11 API: v11_api_connect.ipynb
-- Using the Veeam Easy Connect Module: easy_connect.ipynb
+- Logging into Enterprise Manager
+- Logging into the V11 API
+- Using the Veeam Easy Connect Module
 - Exploring the Veeam API
+- Using Python Pandas with the Veeam API
 
 The Veeam Easy Connect Module can be found at: 
 
